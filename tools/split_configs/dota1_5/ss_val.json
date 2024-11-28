@@ -2,10 +2,10 @@
     "nproc": 20,
     "load_type": "dota",
     "img_dirs": [
-        "data/DOTA1_5/val/images/"
+        "/mnt/workspace/project/OBBDetection/data/DOTA1_5/val/images/"
     ],
     "ann_dirs": [
-        "data/DOTA1_5/val/labelTxt/"
+        "/mnt/workspace/project/OBBDetection/data/DOTA1_5/val/labelTxt-v1.5/DOTA-v1.5_val/"
     ],
     "classes": "dota1.5",
     "prior_annfile": null,
@@ -26,6 +26,6 @@
         104, 116, 124
     ],
     "filter_empty": false,
-    "save_dir": "data/split_ss_dota1_5/val/",
+    "save_dir": "/mnt/workspace/project/OBBDetection/data/split_ss_dota1_5/val/",
     "save_ext": ".png"
 }

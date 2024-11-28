@@ -2,7 +2,7 @@
     "nproc": 20,
     "load_type": "dota",
     "img_dirs": [
-        "data/DOTA1_5/test/images/"
+        "/mnt/workspace/project/OBBDetection/data/DOTA1_5/test/images/"
     ],
     "ann_dirs": null,
     "classes": "dota1.5",
@@ -24,6 +24,6 @@
         104, 116, 124
     ],
     "filter_empty": false,
-    "save_dir": "data/split_ss_dota1_5/test/",
+    "save_dir": "/mnt/workspace/project/OBBDetection/data/split_ss_dota1_5/test/",
     "save_ext": ".png"
 }
