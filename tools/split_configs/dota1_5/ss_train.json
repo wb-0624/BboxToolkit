@@ -5,7 +5,7 @@
         "/mnt/workspace/project/OBBDetection/data/DOTA1_5/train/images/"
     ],
     "ann_dirs": [
-        "/mnt/workspace/project/OBBDetection/data/DOTA1_5/train/labelTxt-v1.5/DOTA-v1.5_train"
+        "/mnt/workspace/project/OBBDetection/data/DOTA1_5/train/labelTxt-v1.5/DOTA-v1.5_train/"
     ],
     "classes": "dota1.5",
     "prior_annfile": null,
